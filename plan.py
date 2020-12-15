@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 13 23:39:57 2020
-
-@author: PRIYAHEMA PC
-"""
 
 '''
 1. user input file(static)
