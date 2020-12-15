@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 15 20:13:37 2020
 
-@author: PRIYAHEMA PC
-"""
 import speech_recognition as sr
 
 def audio_input() :
