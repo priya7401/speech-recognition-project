@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 14 21:00:48 2020
-
-@author: PRIYAHEMA PC
-"""
 
 import speech_recognition as sr
  
